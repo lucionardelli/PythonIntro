@@ -1,3 +1,3 @@
 # PythonIntro
 
-Bief Python introduction using Jupiter
+Brief Python introduction using Jupiter
